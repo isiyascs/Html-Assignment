@@ -1,0 +1,93 @@
+.logo{
+
+  margin-left:3%;
+}
+.inboxCls{
+  margin-right: 5%;
+  background:   #28e7d3  ;
+  border: navajowhite;
+  width: 119px;
+  height: 42px;
+  font-family: Monospace;
+  font-weight: bold;
+}
+.signHeadCls {
+  margin-top: .8%;
+  margin-right: 1%;
+  text-decoration: none;
+  color: #666060;
+  font-size: 13;
+  font-family: monospace;
+}
+
+.smallLogo{
+  margin-left: 68px;
+}
+
+ul {
+  list-style-type: none;
+  overflow: hidden;
+  background-color: #fff;
+  width: 110%;
+  margin-left: 0px;
+  margin-top: 14px;
+  padding-left: 3%;
+  border-top: 2px solid #ddd;
+  border-bottom: 4px solid #ddd;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    font-size: 12px;
+    display: block;
+    color: #1e1e1e;
+    text-align: center;
+    padding: 14px 22px;
+    font-family: Monospace;
+    text-decoration: none;
+}
+
+#banner{
+  text-align: center;
+  padding-right: 10%;
+
+}
+
+.bannerlogo{
+  width: 36%;
+  margin-top: 5%;
+}
+
+h2 {
+  font-family: Monospace;
+  font-style: normal;
+  font-weight: lighter;
+  color: #ada9a9;
+  font-size: 20px;
+}
+
+#banner .inboxCls {
+  margin-right: 0%;
+}
+
+#nulle {
+  margin-top: 10%;
+  background-color: #f5f3f3;
+  width: 40%;
+  margin-left: 6%;
+}
+
+h3 {
+  padding-top: 6%;
+  padding-left: 4%;
+}
+
+.content{
+  padding-left: 4%;
+  padding-right: 9%;
+  font-size: 11px;
+  font-family: monospace;
+}
