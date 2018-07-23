@@ -30,7 +30,7 @@
   border-bottom: 4px solid #ddd;
 }
 
-li {
+header li {
     float: left;
 }
 
@@ -90,4 +90,8 @@ h3 {
   font-size: 11px;
   font-family: monospace;
   color: #8a8a8c;
+}
+
+header .inboxCls {
+  margin-top: 0;
 }
