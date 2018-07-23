@@ -3,13 +3,7 @@
   margin-left:3%;
 }
 .inboxCls{
-  margin-right: 5%;
-  background:   #28e7d3  ;
-  border: navajowhite;
-  width: 119px;
-  height: 42px;
-  font-family: Monospace;
-  font-weight: bold;
+  margin-right: 4%;
 }
 .signHeadCls {
   margin-top: .8%;
@@ -24,11 +18,11 @@
   margin-left: 68px;
 }
 
-ul {
+.navbar ul {
   list-style-type: none;
   overflow: hidden;
   background-color: #fff;
-  width: 110%;
+  width: 97%;
   margin-left: 0px;
   margin-top: 14px;
   padding-left: 3%;
@@ -76,8 +70,13 @@ h2 {
 #nulle {
   margin-top: 10%;
   background-color: #f5f3f3;
-  width: 40%;
+  width: 87%;
   margin-left: 6%;
+}
+
+.contentClass {
+  width: 50%;
+  float: left;
 }
 
 h3 {
@@ -90,4 +89,5 @@ h3 {
   padding-right: 9%;
   font-size: 11px;
   font-family: monospace;
+  color: #8a8a8c;
 }

@@ -1,0 +1,77 @@
+.buttonCls {
+  background: #28f5d7;
+  height: 35px;
+  padding: 0 19px;
+  border: none;
+  font-weight: bold;
+	cursor: pointer;
+	width: 150px;
+}
+
+.itemClass{
+	width: 100%;
+	padding-top: 35px;
+	height: 300px;
+}
+
+.itemsClass {
+	float: left;
+	width: 33%;
+	text-align: center;
+}
+
+.itemsClass img {
+	width: 140px;
+	height: 110px;
+}
+
+
+.itemsClass span {
+	border-top: 2px;
+	border-top-color: #c3c3c3;
+	border-top-style: double;
+	padding-top: 9px;
+	color: #a29999;
+}
+
+.itemsClass button {
+	margin-top: 18px;
+}
+
+.promotionClass {
+	background: #f3f3f3;
+	padding-top: 14px;
+	padding-bottom: 21px;
+	padding-left: 25px;
+	height: 240px;
+}
+
+.promotionClass h4 {
+	padding-left: 26px;
+}
+
+.promotionClass ul {
+	color: #28f5d7;	
+}
+
+.promotionClass li {
+	color: black;
+	padding: 10px 0px;
+}
+
+.promotionClass span {
+	color: #909195;
+}
+
+.watchImg {
+	width: 50%;
+}
+
+.contentClass a{
+	color: #28f5d7;
+	text-decoration: none;
+	padding-left: 21px;
+	position: relative;
+	top: 38px;
+	font-weight: bold;
+}
